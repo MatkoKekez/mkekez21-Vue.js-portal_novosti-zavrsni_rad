@@ -1,0 +1,17 @@
+{
+  "name": "web-portal-prakticni",
+  "version": "1.0.0",
+  "description": "Prakticni dio zavrsnog rada razvoj web aplikacija koristenjem Vue.js ",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "instaliraj": "npm link --save express"
+  },
+  "author": "Matko Kekez",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
